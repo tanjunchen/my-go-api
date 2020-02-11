@@ -1,0 +1,6 @@
+2020/02/11 20:36:01 init.go:32: Mysql Startup Normal!
+2020/02/11 20:36:01 main.go:31: Start to listening the incoming requests on http address: localhost:8083
+2020/02/11 20:45:25 init.go:32: Mysql Startup Normal!
+2020/02/11 20:45:25 main.go:31: Start to listening the incoming requests on http address: localhost:8083
+2020/02/11 20:52:15 init.go:32: Mysql Startup Normal!
+2020/02/11 20:52:15 main.go:31: Start to listening the incoming requests on http address: localhost:8083
